@@ -1,9 +1,8 @@
-all art on this github by dat-soldier on tumblr
-all art on rentry by mezmerf on tumblr
-![](https://files.catbox.moe/q2uu60.png)
-![all art on this github by dat-soldier on tumblr](https://files.catbox.moe/tqpbef.png)
-![](https://files.catbox.moe/q2uu60.png)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=finiteform&color=8fbac6&style=for-the-badge&label=bugs+under+my+rock:" title="hai!">
 
-rentry in progress,
+<p align="center">
+ <img width="300" height="300" alt="image" title="art by mezmerf" src="https://files.catbox.moe/kb7irw.png" />
 
-i like cute guys and fortnite
+<p align="center">
+<a href="https://www.last.fm/user/manistars"><img src="https://lastfm-recently-played.vercel.app/api?user=manistars&footer_style=wave&count=1&width=300&loved=true&loved_style=2&header_style=compact_stats_only&bg_color=e6b562" alt="LASTFM" title="ewww hir music taste SUCKS">
