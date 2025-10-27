@@ -1,4 +1,8 @@
 <p align="center">
+$\color{#e6b562}{\textsf{avatar by dat-soldier, below by mezmerf}}$
+
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=finiteform&color=8fbac6&style=for-the-badge&label=bugs+under+my+rock:" title="hai!">
 
 <p align="center">
