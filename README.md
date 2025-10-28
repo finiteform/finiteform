@@ -10,3 +10,6 @@ $\color{#e6b562}{\textsf{avatar by dat-soldier, below by mezmerf}}$
 
 <p align="center">
 <a href="https://www.last.fm/user/manistars"><img src="https://lastfm-recently-played.vercel.app/api?user=manistars&footer_style=wave&count=1&width=300&loved=true&loved_style=2&header_style=compact_stats_only&bg_color=e6b562" alt="LASTFM" title="ewww hir music taste SUCKS">
+
+ <p align="center">
+<a href="https://tamanotchi.world/26026c"><img src="https://tamanotchi.world/i2/26026" alt="It's tamaNOTchi! Click to feed!" title="shes hunger... pls  feed her...." ></a>
